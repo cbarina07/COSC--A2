@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Bitter:ital,wght@1,600&family=Source+Sans+Pro:ital,wght@0,300;0,400;1,200&display=swap');
 
 body {
-  background-color: #a6a4fc;
+  background-color: #e1e1cb;
   cursor: default}
 .container {
   width:80%
@@ -40,12 +40,12 @@ nav a:hover {
 
 h1 {
   font-family: 'Bitter', serif;
-  color: #281c63;
+  color: #d9b99b;
   text-align: center;
   font-size: 100px
 }
 h2 {
-  color: #281c63;
+  color: #97816c;
   text-align: left;
   font-size: 35px
 }

@@ -3,14 +3,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Bitter:ital,wght@1,600&family=Source+Sans+Pro:ital,wght@0,300;0,400;1,200&display=swap');
 
 body {
-  background-color: #a6a4fc;
+  background-color: #95acb1;
   cursor: default}
 .container {
   width:80%
   margin:0 auto;
 }
 header {
-  background: #c9c1a3;
+  background: #6497b1;
 }
 ul {
   margin: 0;
@@ -30,7 +30,7 @@ nav {
 nav a {
   float: left;
   text-align: center;
-  color: #444;
+  color: #011f4b;
   text-decoration: none;
   text-transform: uppercase;
 }
@@ -40,7 +40,7 @@ nav a:hover {
 
 h1 {
   font-family: 'Bitter', serif;
-  color: #281c63;
+  color: #121315;
   text-align: center;
   font-size: 100px
 }
@@ -59,7 +59,7 @@ hr {
        top: 0px;
        border: none;
        height: 5px;
-       background: #c9c1a3;
+       background: #121315;
        margin-bottom: 25px;
    }
 p {
